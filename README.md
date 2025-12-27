@@ -96,7 +96,7 @@
         </p>
         <p><strong>Stack:</strong> React, Tailwind CSS, Vite</p>
         <p>
-          <a href="https://github.com/avadhootsavle">
+          <a href="https://kalkulussecurytas.com">
             <img src="https://img.shields.io/badge/Code-111111?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
