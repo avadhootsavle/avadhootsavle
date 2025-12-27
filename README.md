@@ -1,16 +1,16 @@
-# 💫 About Me
-IT student passionate about building meaningful, real-world software solutions. Focused on full-stack development, modern web technologies, and writing clean, efficient code. Always curious, always improving.
+# About Me
+I am an IT student driven by curiosity and a strong interest in building real-world digital solutions. I enjoy working on full-stack development, understanding system workflows, and continuously improving my coding skills. I focus on writing clean, efficient code and building practical projects that actually solve problems.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadhootsavle)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/avadhoot_savle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avadhootsavle79@gmail.com)
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -50,23 +50,23 @@ IT student passionate about building meaningful, real-world software solutions. 
 
 ---
 
-## 🔥 Focus Areas
+## Focus Areas
 - Full-stack development  
-- Building scalable projects  
-- Clean and maintainable code  
-- Learning advanced frameworks and tools  
+- Building scalable and reliable applications  
+- Writing maintainable, readable code  
+- Exploring and adapting to new technologies  
 
 ---
 
-## 📌 Current Learning
-- Advanced React & Next.js  
-- Backend architecture  
-- Performance optimization  
+## Currently Learning
+- Advanced React and Next.js  
+- Backend architecture and API design  
+- Performance optimization and best practices  
 
 ---
 
-## ⭐ Personal Goal
-To build impactful digital solutions, improve every day, and contribute to meaningful tech projects.
+## Personal Objective
+To continue learning, build impactful digital solutions, and grow into a strong, industry-ready developer.
 
 ---
 
