@@ -1,7 +1,5 @@
 # 💫 About Me
-🎯 IT Student | Full-Stack & App Development Enthusiast  
-🚀 Passionate about building real-world, user-focused solutions  
-📚 Constantly exploring new technologies & improving my craft  
+IT student passionate about building meaningful, real-world software solutions. Focused on full-stack development, modern web technologies, and writing clean, efficient code. Always curious, always improving.
 
 ---
 
@@ -14,7 +12,7 @@
 
 # 💻 Tech Stack
 
-### 🧠 Languages
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -24,7 +22,7 @@
 
 ---
 
-### 🎨 Frontend
+### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,7 +32,7 @@
 
 ---
 
-### ⚙️ Backend & Tools
+### Backend & Tools
 ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -44,23 +42,31 @@
 
 ---
 
-### 🛠️ Dev Tools & Others
+### Dev Tools & Others
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=avadhootsavle&theme=tokyonight&hide_border=false&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=avadhootsavle&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avadhootsavle&theme=tokyonight&layout=compact)
+## 🔥 Focus Areas
+- Full-stack development  
+- Building scalable projects  
+- Clean and maintainable code  
+- Learning advanced frameworks and tools  
 
 ---
 
-### ✨ Quote
-“Building today, improving tomorrow.”
+## 📌 Current Learning
+- Advanced React & Next.js  
+- Backend architecture  
+- Performance optimization  
+
+---
+
+## ⭐ Personal Goal
+To build impactful digital solutions, improve every day, and contribute to meaningful tech projects.
 
 ---
 
