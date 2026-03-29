@@ -42,7 +42,36 @@
 
 ## `whoami`
 
-<img align="right" width="320" src="https://github-profile-trophy.vercel.app/?username=avadhootsavle&theme=onestar&no-frame=true&no-bg=true&row=2&column=3" alt="trophies" />
+<table align="right">
+  <tr>
+    <td>
+
+<div align="center">
+
+```text
+██████╗ ███████╗██████╗
+██╔══██╗██╔════╝██╔══██╗
+██████╔╝█████╗  ██║  ██║
+██╔══██╗██╔══╝  ██║  ██║
+██║  ██║███████╗██████╔╝
+╚═╝  ╚═╝╚══════╝╚═════╝
+```
+
+`system.signal`
+
+```text
+target      : hand-speak
+status      : deployed
+category    : real-world build
+priority    : high impact
+signature   : cyber-red profile
+```
+
+</div>
+
+    </td>
+  </tr>
+</table>
 
 ```text
 Name          : Avadhoot Savle
