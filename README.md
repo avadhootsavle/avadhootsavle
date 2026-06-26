@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090909,35:1a0a0a,70:3a0d0d,100:dc2626&text=AVADHOOT%20SAVLE&fontColor=fee2e2&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20CYBER-STYLE%20BUILDER&descAlignY=58&animation=fadeIn" alt="Cyber banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090909,35:1a0a0a,70:3a0d0d,100:dc2626&text=AVADHOOT%20SAVLE&fontColor=fee2e2&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%&descAlignY=58&animation=fadeIn" alt="Cyber banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=EF4444&center=true&vCenter=true&width=900&lines=%3E+initializing+developer+profile;%3E+loading+projects+and+skills;%3E+building+clean%2C+reliable+web+systems;%3E+learning%2C+shipping%2C+improving)](https://git.io/typing-svg)
 
