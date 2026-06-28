@@ -8,7 +8,7 @@ I enjoy exploring how systems work behind the scenes, from home networks and ser
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Avadhoot Savle](http://https://avadhootsavle.vercel.app/)
 * ✉️  You can contact me at [avadhootsavle79@gmail.com](mailto:avadhootsavle79@gmail.com)
-* 🚀  I'm currently working on [projects involving networking, cybersecurity, self-hosted services, and AI technologies to gain practical experience and deepen my technical knowledge.](http://github.com/avadhootsavle/wifi-pentesting)
+* 🚀  I'm currently working on projects involving networking, cybersecurity, self-hosted services, and AI technologies to gain practical experience and deepen my technical knowledge.
 * 🧠  I'm currently learning Cybersecurity
 * 💬  Ask me about I'm always open to learning new technologies, collaborating on interesting projects, and connecting with other developers and tech enthusiasts.
 
