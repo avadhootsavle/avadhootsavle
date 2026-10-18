@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/avadhootsavle"><img src="assets/linkedin.svg" width="200" height="48" alt="LINKEDIN ↗" /></a>
-
+  <a href="https://www.linkedin.com/in/avadhootsavle" align="center"><img src="assets/linkedin.svg" width="200" height="48" alt="LINKEDIN ↗" /></a>
 </p>
 
 <details>
