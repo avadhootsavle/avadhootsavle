@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1150" viewBox="0 0 1440 1150" role="img" aria-labelledby="title desc">
+<title id="title">SAVLE / SYSTEM — Avadhoot's personal technology lab</title><desc id="desc">Animated conceptual interface connecting networking, cybersecurity and self-hosting. Avadhoot Savle, India. Learn, experiment, build, repeat. Animation is decorative, not live telemetry.</desc>
+<defs>
+<radialGradient id="aura"><stop stop-color="#7d56ff" stop-opacity=".28"/><stop offset="1" stop-color="#7d56ff" stop-opacity="0"/></radialGradient>
+<linearGradient id="metal" x2="0.7" y2="1"><stop stop-color="#fff"/><stop offset=".5" stop-color="#c9c9e4"/><stop offset="1" stop-color="#737791"/></linearGradient>
+<linearGradient id="wire"><stop stop-color="#bdff72"/><stop offset="1" stop-color="#a98aff"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#3b4054"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+<style>text{font-kerning:normal}.mono{font-family:monospace}@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+</defs>
+<rect x="0" y="0" width="1440" height="1150" rx="24" fill="#080a10" stroke="#080a10"/>
+<rect x="0" y="0" width="1440" height="1150" fill="url(#dots)" opacity=".45"/><ellipse cx="1010" cy="400" rx="520" ry="390" fill="url(#aura)"/>
+<rect x="36" y="30" width="1368" height="50" rx="10" fill="#10121b" stroke="#292d3c"/>
+<text x="56" y="62" fill="#bdff72" font-family="Arial, sans-serif" font-size="23" font-weight="400" >◈</text>
+<text x="94" y="61" fill="#eef0f9" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">SAVLE / SYSTEM</text>
+<text x="624" y="61" fill="#8e95ac" font-family="Arial, sans-serif" font-size="11" font-weight="400" letter-spacing="2">PERSONAL EXPLORATION ENVIRONMENT</text>
+<circle cx="1198" cy="55" r="4" fill="#bdff72"/>
+<text x="1212" y="60" fill="#bdff72" font-family="monospace" font-size="12" font-weight="400" >INDIA · IST</text>
+<text x="48" y="125" fill="#a98aff" font-family="monospace" font-size="12" font-weight="400" letter-spacing="2">001 — THE HUMAN BEHIND THE SYSTEM</text>
+<text x="40" y="239" fill="url(#metal)" font-family="Arial, sans-serif" font-size="123" font-weight="800" letter-spacing="-6">AVADHOOT</text>
+<text x="42" y="350" fill="url(#metal)" font-family="Arial, sans-serif" font-size="123" font-weight="800" letter-spacing="-6">SAVLE</text>
+<text x="48" y="396" fill="#f0f1fa" font-family="Arial, sans-serif" font-size="27" font-weight="500" >I explore what happens</text>
+<text x="48" y="434" fill="#f0f1fa" font-family="Arial, sans-serif" font-size="27" font-weight="500" >beneath the interface.</text>
+<text x="48" y="478" fill="#969eb6" font-family="Arial, sans-serif" font-size="15" font-weight="400" >Networks. Security. Software. The connections between.</text>
+<rect x="48" y="511" width="244" height="40" rx="6" fill="#bdff72" stroke="#bdff72"/>
+<text x="65" y="537" fill="#10150c" font-family="monospace" font-size="12" font-weight="700" >CURIOSITY IS THE ENGINE ↗</text>
+<g fill="none">
+<circle cx="1080" cy="320" r="200" stroke="#665982" stroke-opacity=".35"/>
+<circle cx="1080" cy="320" r="177" stroke="#665982" stroke-opacity=".35"/>
+<circle cx="1080" cy="320" r="142" stroke="#665982" stroke-opacity=".35"/>
+<circle cx="1080" cy="320" r="94" stroke="#665982" stroke-opacity=".35"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(0 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(10 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(20 1080 320)"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(30 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(40 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(50 1080 320)"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(60 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(70 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(80 1080 320)"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(90 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(100 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(110 1080 320)"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(120 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(130 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(140 1080 320)"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(150 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(160 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(170 1080 320)"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(180 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(190 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(200 1080 320)"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(210 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(220 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(230 1080 320)"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(240 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(250 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(260 1080 320)"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(270 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(280 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(290 1080 320)"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(300 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(310 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(320 1080 320)"/>
+<path d="M1080 110v12" stroke="#827394" transform="rotate(330 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(340 1080 320)"/>
+<path d="M1080 110v5" stroke="#827394" transform="rotate(350 1080 320)"/>
+<ellipse cx="1080" cy="320" rx="170" ry="61" stroke="url(#wire)" stroke-width="1.5" transform="rotate(25 1080 320)"/>
+<ellipse cx="1080" cy="320" rx="170" ry="61" stroke="url(#wire)" stroke-width="1.5" transform="rotate(85 1080 320)"/>
+<ellipse cx="1080" cy="320" rx="170" ry="61" stroke="url(#wire)" stroke-width="1.5" transform="rotate(145 1080 320)"/>
+</g>
+<g class="motion"><animateTransform attributeName="transform" type="rotate" from="0 1080 320" to="360 1080 320" dur="22s" repeatCount="indefinite"/><circle cx="1080" cy="143" r="5" fill="#bdff72"/><circle cx="1080" cy="497" r="4" fill="#a98aff"/></g>
+<rect x="1019" y="259" width="122" height="122" rx="27" fill="#141721" stroke="#a98aff"/>
+<text x="1043" y="337" fill="#f1edff" font-family="Arial, sans-serif" font-size="49" font-weight="700" letter-spacing="-3">AS</text>
+<text x="987" y="562" fill="#b7a4e5" font-family="monospace" font-size="12" font-weight="400" letter-spacing="2">THE CURIOSITY ENGINE</text>
+<rect x="878" y="171" width="162" height="32" rx="4" fill="#10131d" stroke="#4e426a"/>
+<text x="890" y="192" fill="#c9bddf" font-family="monospace" font-size="11" font-weight="400" >INPUT / IDEAS</text>
+<rect x="1190" y="452" width="162" height="32" rx="4" fill="#10131d" stroke="#4e426a"/>
+<text x="1202" y="473" fill="#c9bddf" font-family="monospace" font-size="11" font-weight="400" >OUTPUT / BUILDS</text>
+<path d="M48 589H1392" stroke="#303447"/>
+<text x="48" y="624" fill="#a98aff" font-family="monospace" font-size="12" font-weight="400" letter-spacing="2">002 — THREE DOORS INTO MY WORLD</text>
+<rect x="48" y="648" width="424" height="216" rx="12" fill="#10131d" stroke="#303549"/>
+<text x="70" y="681" fill="#bdff72" font-family="monospace" font-size="13" font-weight="400" >01</text>
+<text x="419" y="684" fill="#bdff72" font-family="Arial, sans-serif" font-size="23" font-weight="400" >↗</text>
+<path d="M74 727H153L191 702H269M153 727l38 25h78" stroke="#bdff72" fill="none"/>
+<circle cx="74" cy="727" r="4" fill="#bdff72"/>
+<circle cx="153" cy="727" r="4" fill="#bdff72"/>
+<circle cx="269" cy="702" r="4" fill="#bdff72"/>
+<circle cx="269" cy="752" r="4" fill="#bdff72"/>
+<text x="70" y="787" fill="#eef0f8" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1">NETWORKS</text>
+<text x="70" y="815" fill="#b2bacd" font-family="Arial, sans-serif" font-size="16" font-weight="400" >Follow the signal.</text>
+<text x="70" y="842" fill="#747f99" font-family="Arial, sans-serif" font-size="12" font-weight="400" >Home networks · Infrastructure</text>
+<rect x="508" y="648" width="424" height="216" rx="12" fill="#10131d" stroke="#303549"/>
+<text x="530" y="681" fill="#b297ff" font-family="monospace" font-size="13" font-weight="400" >02</text>
+<text x="879" y="684" fill="#b297ff" font-family="Arial, sans-serif" font-size="23" font-weight="400" >↗</text>
+<rect x="533" y="706" width="4" height="42" fill="#b297ff" opacity="0.25"/>
+<rect x="545" y="711" width="4" height="32" fill="#b297ff" opacity="0.45"/>
+<rect x="557" y="716" width="4" height="22" fill="#b297ff" opacity="0.65"/>
+<rect x="569" y="706" width="4" height="42" fill="#b297ff" opacity="0.8500000000000001"/>
+<rect x="581" y="711" width="4" height="32" fill="#b297ff" opacity="0.25"/>
+<rect x="593" y="716" width="4" height="22" fill="#b297ff" opacity="0.45"/>
+<rect x="605" y="706" width="4" height="42" fill="#b297ff" opacity="0.65"/>
+<rect x="617" y="711" width="4" height="32" fill="#b297ff" opacity="0.8500000000000001"/>
+<rect x="629" y="716" width="4" height="22" fill="#b297ff" opacity="0.25"/>
+<rect x="641" y="706" width="4" height="42" fill="#b297ff" opacity="0.45"/>
+<rect x="653" y="711" width="4" height="32" fill="#b297ff" opacity="0.65"/>
+<rect x="665" y="716" width="4" height="22" fill="#b297ff" opacity="0.8500000000000001"/>
+<rect x="677" y="706" width="4" height="42" fill="#b297ff" opacity="0.25"/>
+<rect x="689" y="711" width="4" height="32" fill="#b297ff" opacity="0.45"/>
+<rect x="701" y="716" width="4" height="22" fill="#b297ff" opacity="0.65"/>
+<rect x="713" y="706" width="4" height="42" fill="#b297ff" opacity="0.8500000000000001"/>
+<rect x="725" y="711" width="4" height="32" fill="#b297ff" opacity="0.25"/>
+<rect x="737" y="716" width="4" height="22" fill="#b297ff" opacity="0.45"/>
+<text x="530" y="787" fill="#eef0f8" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1">SECURITY</text>
+<text x="530" y="815" fill="#b2bacd" font-family="Arial, sans-serif" font-size="16" font-weight="400" >Question the surface.</text>
+<text x="530" y="842" fill="#747f99" font-family="Arial, sans-serif" font-size="12" font-weight="400" >Cybersecurity · Linux fundamentals</text>
+<rect x="968" y="648" width="424" height="216" rx="12" fill="#10131d" stroke="#303549"/>
+<text x="990" y="681" fill="#7ae2ef" font-family="monospace" font-size="13" font-weight="400" >03</text>
+<text x="1339" y="684" fill="#7ae2ef" font-family="Arial, sans-serif" font-size="23" font-weight="400" >↗</text>
+<rect x="992" y="704" width="65" height="41" rx="5" fill="#13212b" stroke="#375a62"/>
+<circle cx="1005" cy="717" r="3" fill="#7ae2ef"/>
+<path d="M1003 732h42" stroke="#7ae2ef" stroke-opacity=".4"/>
+<rect x="1068" y="704" width="65" height="41" rx="5" fill="#13212b" stroke="#375a62"/>
+<circle cx="1081" cy="717" r="3" fill="#7ae2ef"/>
+<path d="M1079 732h42" stroke="#7ae2ef" stroke-opacity=".4"/>
+<rect x="1144" y="704" width="65" height="41" rx="5" fill="#13212b" stroke="#375a62"/>
+<circle cx="1157" cy="717" r="3" fill="#7ae2ef"/>
+<path d="M1155 732h42" stroke="#7ae2ef" stroke-opacity=".4"/>
+<text x="990" y="787" fill="#eef0f8" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1">SELF-HOSTING</text>
+<text x="990" y="815" fill="#b2bacd" font-family="Arial, sans-serif" font-size="16" font-weight="400" >Understand the machine.</text>
+<text x="990" y="842" fill="#747f99" font-family="Arial, sans-serif" font-size="12" font-weight="400" >Servers · Services · Automation</text>
+<path d="M260 864v22h920v-22" fill="none" stroke="#464051"/>
+<circle class="motion" r="4" fill="#bdff72"><animateMotion path="M260 864v22h920v-22" dur="5s" repeatCount="indefinite"/></circle>
+<rect x="48" y="912" width="844" height="158" rx="12" fill="#0d1018" stroke="#303549"/>
+<text x="71" y="944" fill="#7e89a2" font-family="monospace" font-size="12" font-weight="400" >~/avadhoot/learning-loop</text>
+<text x="71" y="978" fill="#bdff72" font-family="Arial, sans-serif" font-size="17" font-weight="400" >➜</text>
+<text x="100" y="978" fill="#e1e6f4" font-family="monospace" font-size="18" font-weight="400" >learn → experiment → build → repeat</text>
+<text x="71" y="1010" fill="#727e99" font-family="monospace" font-size="13" font-weight="400" >Current focus</text>
+<text x="222" y="1010" fill="#bfa8ff" font-family="monospace" font-size="13" font-weight="400" >Cybersecurity + Linux</text>
+<text x="71" y="1040" fill="#727e99" font-family="monospace" font-size="13" font-weight="400" >Mindset</text>
+<text x="222" y="1040" fill="#a8b3c8" font-family="monospace" font-size="13" font-weight="400" >Always a work in progress.</text>
+<rect class="motion" x="505" y="1027" width="8" height="15" fill="#bdff72"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect>
+<rect x="916" y="912" width="476" height="158" rx="12" fill="#bba4ff" stroke="#bba4ff"/>
+<text x="942" y="946" fill="#332449" font-family="monospace" font-size="11" font-weight="700" letter-spacing="2">THE NEXT CONNECTION</text>
+<text x="940" y="990" fill="#171021" font-family="Arial, sans-serif" font-size="35" font-weight="700" letter-spacing="-1">Could be you.</text>
+<text x="942" y="1030" fill="#3c2e54" font-family="Arial, sans-serif" font-size="13" font-weight="400" >Ideas, experiments, and thoughtful collaboration.</text>
+<text x="942" y="1051" fill="#3c2e54" font-family="Arial, sans-serif" font-size="13" font-weight="400" >Find me through the links below. ↙</text>
+<text x="48" y="1115" fill="#727b92" font-family="monospace" font-size="11" font-weight="400" letter-spacing="1">AVADHOOT SAVLE / A PERSONAL LAB, ALWAYS EVOLVING.</text>
+<text x="1120" y="1115" fill="#626b80" font-family="monospace" font-size="10" font-weight="400" >CONCEPT / NOT LIVE DATA</text>
+</svg>
