@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="assets/system.svg" width="100%" alt="Avadhoot Savle — a purple animated personal systems lab with a circular portrait exploring networking, cybersecurity and self-hosting." />
+  <img src="assets/system1.svg" width="100%" alt="Avadhoot Savle — a purple animated personal systems lab with a circular portrait exploring networking, cybersecurity and self-hosting." />
 </p>
 
 <p align="center">
-  <a href="https://avadhootsavle.vercel.app/"><img src="assets/portfolio.svg" width="200" height="48" alt="PORTFOLIO ↗" /></a>
-  &nbsp;
+
   <a href="https://www.linkedin.com/in/avadhootsavle"><img src="assets/linkedin.svg" width="200" height="48" alt="LINKEDIN ↗" /></a>
-  &nbsp;
-  <a href="mailto:avadhootsavle79@gmail.com"><img src="assets/contact.svg" width="200" height="48" alt="LET’S TALK ↗" /></a>
+
 </p>
 
 <details>
